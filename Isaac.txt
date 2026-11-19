@@ -1,4 +1,4 @@
-Pol
-Adria
-Bruno
-Joan
+Pol: 18, DAM, Programador
+Adria: 18, Batxillerat Social, No treballa
+Bruno: 18, Batxillerat cientific, Celador
+Joan: 19, BAtxillerat tecnologic, No treballa
